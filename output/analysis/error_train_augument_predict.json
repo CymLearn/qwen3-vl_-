@@ -1,0 +1,1028 @@
+[
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>你是一个专业的车位号识别助手。请观察图片，输出车位号的位置与编号。输出json格式：[{\"text_content\": text, \"bbox_2d\": [x1, y1, x2, y2]}, {\"text_content\": text, \"bbox_2d\": [x1, y1, x2, y2]}]"
+      }
+    ],
+    "gt": {
+      "from": "gpt",
+      "value": "[{\"text_content\": \"006\", \"bbox_2d\": [234, 582, 307, 627]}]"
+    },
+    "pred": {
+      "from": "gpt",
+      "value": "[{\"text_content\": \"086\", \"bbox_2d\": [232, 580, 308, 633]}]"
+    },
+    "images": [
+      "test_images/test_0054.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>你是一个专业的车位号识别助手。请观察图片，输出车位号的位置与编号。输出json格式：[{\"text_content\": text, \"bbox_2d\": [x1, y1, x2, y2]}, {\"text_content\": text, \"bbox_2d\": [x1, y1, x2, y2]}]"
+      }
+    ],
+    "gt": {
+      "from": "gpt",
+      "value": "[{\"text_content\": \"K210\", \"bbox_2d\": [723, 642, 953, 797]}]"
+    },
+    "pred": {
+      "from": "gpt",
+      "value": "[{\"text_content\": \"K270\", \"bbox_2d\": [728, 642, 941, 796]}]"
+    },
+    "images": [
+      "test_images/test_0062.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>你是一个专业的车位号识别助手。请观察图片，输出车位号的位置与编号。输出json格式：[{\"text_content\": text, \"bbox_2d\": [x1, y1, x2, y2]}, {\"text_content\": text, \"bbox_2d\": [x1, y1, x2, y2]}]"
+      }
+    ],
+    "gt": {
+      "from": "gpt",
+      "value": "[{\"text_content\": \"-232\", \"bbox_2d\": [575, 860, 719, 1000]}]"
+    },
+    "pred": {
+      "from": "gpt",
+      "value": "[{\"text_content\": \"-234\", \"bbox_2d\": [578, 865, 722, 1000]}]"
+    },
+    "images": [
+      "test_images/test_0068.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>你是一个专业的车位号识别助手。请观察图片，输出车位号的位置与编号。输出json格式：[{\"text_content\": text, \"bbox_2d\": [x1, y1, x2, y2]}, {\"text_content\": text, \"bbox_2d\": [x1, y1, x2, y2]}]"
+      }
+    ],
+    "gt": {
+      "from": "gpt",
+      "value": "[{\"text_content\": \"0-2172\", \"bbox_2d\": [22, 771, 159, 859]}]"
+    },
+    "pred": {
+      "from": "gpt",
+      "value": "[{\"text_content\": \"0-24172\", \"bbox_2d\": [25, 766, 164, 863]}]"
+    },
+    "images": [
+      "test_images/test_0069.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>你是一个专业的车位号识别助手。请观察图片，输出车位号的位置与编号。输出json格式：[{\"text_content\": text, \"bbox_2d\": [x1, y1, x2, y2]}, {\"text_content\": text, \"bbox_2d\": [x1, y1, x2, y2]}]"
+      }
+    ],
+    "gt": {
+      "from": "gpt",
+      "value": "[{\"text_content\": \"商业-43\", \"bbox_2d\": [644, 665, 754, 853]}]"
+    },
+    "pred": {
+      "from": "gpt",
+      "value": "[{\"text_content\": \"商业-3\", \"bbox_2d\": [647, 675, 757, 851]}]"
+    },
+    "images": [
+      "test_images/test_0078.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>你是一个专业的车位号识别助手。请观察图片，输出车位号的位置与编号。输出json格式：[{\"text_content\": text, \"bbox_2d\": [x1, y1, x2, y2]}, {\"text_content\": text, \"bbox_2d\": [x1, y1, x2, y2]}]"
+      }
+    ],
+    "gt": {
+      "from": "gpt",
+      "value": "[{\"text_content\": \"032\", \"bbox_2d\": [551, 706, 778, 838]}, {\"text_content\": \"031\", \"bbox_2d\": [891, 581, 1000, 659]}]"
+    },
+    "pred": {
+      "from": "gpt",
+      "value": "[{\"text_content\": \"232\", \"bbox_2d\": [573, 699, 749, 841]}]"
+    },
+    "images": [
+      "test_images/test_0083.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>你是一个专业的车位号识别助手。请观察图片，输出车位号的位置与编号。输出json格式：[{\"text_content\": text, \"bbox_2d\": [x1, y1, x2, y2]}, {\"text_content\": text, \"bbox_2d\": [x1, y1, x2, y2]}]"
+      }
+    ],
+    "gt": {
+      "from": "gpt",
+      "value": "[{\"text_content\": \"0-2258\", \"bbox_2d\": [128, 715, 271, 806]}, {\"text_content\": \"0-2259\", \"bbox_2d\": [369, 847, 599, 991]}]"
+    },
+    "pred": {
+      "from": "gpt",
+      "value": "[{\"text_content\": \"02258\", \"bbox_2d\": [127, 719, 273, 804]}, {\"text_content\": \"02259\", \"bbox_2d\": [370, 846, 599, 991]}]"
+    },
+    "images": [
+      "test_images/test_0096.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>你是一个专业的车位号识别助手。请观察图片，输出车位号的位置与编号。输出json格式：[{\"text_content\": text, \"bbox_2d\": [x1, y1, x2, y2]}, {\"text_content\": text, \"bbox_2d\": [x1, y1, x2, y2]}]"
+      }
+    ],
+    "gt": {
+      "from": "gpt",
+      "value": "[{\"text_content\": \"A224\", \"bbox_2d\": [517, 736, 599, 867]}]"
+    },
+    "pred": {
+      "from": "gpt",
+      "value": "[{\"text_content\": \"-A224\", \"bbox_2d\": [507, 756, 602, 870]}]"
+    },
+    "images": [
+      "test_images/test_0122.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>你是一个专业的车位号识别助手。请观察图片，输出车位号的位置与编号。输出json格式：[{\"text_content\": text, \"bbox_2d\": [x1, y1, x2, y2]}, {\"text_content\": text, \"bbox_2d\": [x1, y1, x2, y2]}]"
+      }
+    ],
+    "gt": {
+      "from": "gpt",
+      "value": "[{\"text_content\": \"16073\", \"bbox_2d\": [120, 445, 255, 534]}]"
+    },
+    "pred": {
+      "from": "gpt",
+      "value": "[{\"text_content\": \"1603\", \"bbox_2d\": [120, 449, 253, 536]}]"
+    },
+    "images": [
+      "test_images/test_0126.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>你是一个专业的车位号识别助手。请观察图片，输出车位号的位置与编号。输出json格式：[{\"text_content\": text, \"bbox_2d\": [x1, y1, x2, y2]}, {\"text_content\": text, \"bbox_2d\": [x1, y1, x2, y2]}]"
+      }
+    ],
+    "gt": {
+      "from": "gpt",
+      "value": "[{\"text_content\": \"D041\", \"bbox_2d\": [438, 760, 515, 798]}]"
+    },
+    "pred": {
+      "from": "gpt",
+      "value": "[{\"text_content\": \"0041\", \"bbox_2d\": [337, 708, 518, 804]}]"
+    },
+    "images": [
+      "test_images/test_0134.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>你是一个专业的车位号识别助手。请观察图片，输出车位号的位置与编号。输出json格式：[{\"text_content\": text, \"bbox_2d\": [x1, y1, x2, y2]}, {\"text_content\": text, \"bbox_2d\": [x1, y1, x2, y2]}]"
+      }
+    ],
+    "gt": {
+      "from": "gpt",
+      "value": "[{\"text_content\": \"0-1113\", \"bbox_2d\": [387, 691, 548, 789]}]"
+    },
+    "pred": {
+      "from": "gpt",
+      "value": "[{\"text_content\": \"0-1143\", \"bbox_2d\": [395, 695, 545, 784]}]"
+    },
+    "images": [
+      "test_images/test_0135.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>你是一个专业的车位号识别助手。请观察图片，输出车位号的位置与编号。输出json格式：[{\"text_content\": text, \"bbox_2d\": [x1, y1, x2, y2]}, {\"text_content\": text, \"bbox_2d\": [x1, y1, x2, y2]}]"
+      }
+    ],
+    "gt": {
+      "from": "gpt",
+      "value": "[{\"text_content\": \"13090\", \"bbox_2d\": [373, 501, 673, 629]}]"
+    },
+    "pred": {
+      "from": "gpt",
+      "value": "[{\"text_content\": \"-13090\", \"bbox_2d\": [375, 496, 675, 633]}]"
+    },
+    "images": [
+      "test_images/test_0153.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>你是一个专业的车位号识别助手。请观察图片，输出车位号的位置与编号。输出json格式：[{\"text_content\": text, \"bbox_2d\": [x1, y1, x2, y2]}, {\"text_content\": text, \"bbox_2d\": [x1, y1, x2, y2]}]"
+      }
+    ],
+    "gt": {
+      "from": "gpt",
+      "value": "[{\"text_content\": \"0-1170\", \"bbox_2d\": [76, 701, 165, 766]}]"
+    },
+    "pred": {
+      "from": "gpt",
+      "value": "[{\"text_content\": \"0-117\", \"bbox_2d\": [280, 885, 455, 1000]}, {\"text_content\": \"0-118\", \"bbox_2d\": [77, 700, 160, 761]}]"
+    },
+    "images": [
+      "test_images/test_0156.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>你是一个专业的车位号识别助手。请观察图片，输出车位号的位置与编号。输出json格式：[{\"text_content\": text, \"bbox_2d\": [x1, y1, x2, y2]}, {\"text_content\": text, \"bbox_2d\": [x1, y1, x2, y2]}]"
+      }
+    ],
+    "gt": {
+      "from": "gpt",
+      "value": "[{\"text_content\": \"-1952\", \"bbox_2d\": [590, 449, 699, 521]}]"
+    },
+    "pred": {
+      "from": "gpt",
+      "value": "[{\"text_content\": \"-1862\", \"bbox_2d\": [593, 446, 696, 525]}]"
+    },
+    "images": [
+      "test_images/test_0165.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>你是一个专业的车位号识别助手。请观察图片，输出车位号的位置与编号。输出json格式：[{\"text_content\": text, \"bbox_2d\": [x1, y1, x2, y2]}, {\"text_content\": text, \"bbox_2d\": [x1, y1, x2, y2]}]"
+      }
+    ],
+    "gt": {
+      "from": "gpt",
+      "value": "[{\"text_content\": \"541\", \"bbox_2d\": [289, 650, 492, 762]}]"
+    },
+    "pred": {
+      "from": "gpt",
+      "value": "[{\"text_content\": \"541\", \"bbox_2d\": [208, 0, 249, 44]}, {\"text_content\": \"544\", \"bbox_2d\": [286, 660, 489, 765]}]"
+    },
+    "images": [
+      "test_images/test_0166.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>你是一个专业的车位号识别助手。请观察图片，输出车位号的位置与编号。输出json格式：[{\"text_content\": text, \"bbox_2d\": [x1, y1, x2, y2]}, {\"text_content\": text, \"bbox_2d\": [x1, y1, x2, y2]}]"
+      }
+    ],
+    "gt": {
+      "from": "gpt",
+      "value": "[{\"text_content\": \"0-2236\", \"bbox_2d\": [375, 832, 510, 947]}, {\"text_content\": \"0-2237\", \"bbox_2d\": [533, 735, 606, 796]}]"
+    },
+    "pred": {
+      "from": "gpt",
+      "value": "[{\"text_content\": \"0-2230\", \"bbox_2d\": [375, 841, 500, 951]}, {\"text_content\": \"0-2231\", \"bbox_2d\": [533, 735, 614, 795]}]"
+    },
+    "images": [
+      "test_images/test_0171.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>你是一个专业的车位号识别助手。请观察图片，输出车位号的位置与编号。输出json格式：[{\"text_content\": text, \"bbox_2d\": [x1, y1, x2, y2]}, {\"text_content\": text, \"bbox_2d\": [x1, y1, x2, y2]}]"
+      }
+    ],
+    "gt": {
+      "from": "gpt",
+      "value": "[{\"text_content\": \"1114\", \"bbox_2d\": [377, 751, 462, 790]}]"
+    },
+    "pred": {
+      "from": "gpt",
+      "value": "[{\"text_content\": \"124\", \"bbox_2d\": [377, 749, 458, 790]}]"
+    },
+    "images": [
+      "test_images/test_0177.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>你是一个专业的车位号识别助手。请观察图片，输出车位号的位置与编号。输出json格式：[{\"text_content\": text, \"bbox_2d\": [x1, y1, x2, y2]}, {\"text_content\": text, \"bbox_2d\": [x1, y1, x2, y2]}]"
+      }
+    ],
+    "gt": {
+      "from": "gpt",
+      "value": "[{\"text_content\": \"1132055\", \"bbox_2d\": [227, 698, 424, 813]}]"
+    },
+    "pred": {
+      "from": "gpt",
+      "value": "[{\"text_content\": \"1152055\", \"bbox_2d\": [230, 699, 423, 817]}]"
+    },
+    "images": [
+      "test_images/test_0180.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>你是一个专业的车位号识别助手。请观察图片，输出车位号的位置与编号。输出json格式：[{\"text_content\": text, \"bbox_2d\": [x1, y1, x2, y2]}, {\"text_content\": text, \"bbox_2d\": [x1, y1, x2, y2]}]"
+      }
+    ],
+    "gt": {
+      "from": "gpt",
+      "value": "[{\"text_content\": \"E060\", \"bbox_2d\": [191, 725, 383, 806]}, {\"text_content\": \"E058\", \"bbox_2d\": [603, 601, 687, 634]}]"
+    },
+    "pred": {
+      "from": "gpt",
+      "value": "[{\"text_content\": \"E062\", \"bbox_2d\": [603, 599, 691, 635]}, {\"text_content\": \"E061\", \"bbox_2d\": [603, 599, 691, 635]}]"
+    },
+    "images": [
+      "test_images/test_0201.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>你是一个专业的车位号识别助手。请观察图片，输出车位号的位置与编号。输出json格式：[{\"text_content\": text, \"bbox_2d\": [x1, y1, x2, y2]}, {\"text_content\": text, \"bbox_2d\": [x1, y1, x2, y2]}]"
+      }
+    ],
+    "gt": {
+      "from": "gpt",
+      "value": "[{\"text_content\": \"16033\", \"bbox_2d\": [709, 719, 840, 915]}]"
+    },
+    "pred": {
+      "from": "gpt",
+      "value": "[{\"text_content\": \"16035\", \"bbox_2d\": [707, 719, 837, 915]}]"
+    },
+    "images": [
+      "test_images/test_0203.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>你是一个专业的车位号识别助手。请观察图片，输出车位号的位置与编号。输出json格式：[{\"text_content\": text, \"bbox_2d\": [x1, y1, x2, y2]}, {\"text_content\": text, \"bbox_2d\": [x1, y1, x2, y2]}]"
+      }
+    ],
+    "gt": {
+      "from": "gpt",
+      "value": "[{\"text_content\": \"32007\", \"bbox_2d\": [257, 862, 427, 1000]}]"
+    },
+    "pred": {
+      "from": "gpt",
+      "value": "[{\"text_content\": \"22967\", \"bbox_2d\": [261, 865, 430, 1000]}]"
+    },
+    "images": [
+      "test_images/test_0217.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>你是一个专业的车位号识别助手。请观察图片，输出车位号的位置与编号。输出json格式：[{\"text_content\": text, \"bbox_2d\": [x1, y1, x2, y2]}, {\"text_content\": text, \"bbox_2d\": [x1, y1, x2, y2]}]"
+      }
+    ],
+    "gt": {
+      "from": "gpt",
+      "value": "[]"
+    },
+    "pred": {
+      "from": "gpt",
+      "value": "[{\"text_content\": \"400-426\", \"bbox_2d\": [471, 180, 528, 229]}]"
+    },
+    "images": [
+      "test_images/test_0231.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>你是一个专业的车位号识别助手。请观察图片，输出车位号的位置与编号。输出json格式：[{\"text_content\": text, \"bbox_2d\": [x1, y1, x2, y2]}, {\"text_content\": text, \"bbox_2d\": [x1, y1, x2, y2]}]"
+      }
+    ],
+    "gt": {
+      "from": "gpt",
+      "value": "[{\"text_content\": \"6-97\", \"bbox_2d\": [404, 775, 616, 877]}]"
+    },
+    "pred": {
+      "from": "gpt",
+      "value": "[{\"text_content\": \"0-91\", \"bbox_2d\": [412, 775, 612, 875]}]"
+    },
+    "images": [
+      "test_images/test_0232.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>你是一个专业的车位号识别助手。请观察图片，输出车位号的位置与编号。输出json格式：[{\"text_content\": text, \"bbox_2d\": [x1, y1, x2, y2]}, {\"text_content\": text, \"bbox_2d\": [x1, y1, x2, y2]}]"
+      }
+    ],
+    "gt": {
+      "from": "gpt",
+      "value": "[{\"text_content\": \"K161\", \"bbox_2d\": [265, 668, 571, 881]}, {\"text_content\": \"K162\", \"bbox_2d\": [652, 495, 789, 599]}, {\"text_content\": \"K163\", \"bbox_2d\": [801, 391, 897, 455]}]"
+    },
+    "pred": {
+      "from": "gpt",
+      "value": "[{\"text_content\": \"K167\", \"bbox_2d\": [799, 400, 901, 460]}, {\"text_content\": \"K166\", \"bbox_2d\": [655, 489, 792, 593]}]"
+    },
+    "images": [
+      "test_images/test_0242.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>你是一个专业的车位号识别助手。请观察图片，输出车位号的位置与编号。输出json格式：[{\"text_content\": text, \"bbox_2d\": [x1, y1, x2, y2]}, {\"text_content\": text, \"bbox_2d\": [x1, y1, x2, y2]}]"
+      }
+    ],
+    "gt": {
+      "from": "gpt",
+      "value": "[{\"text_content\": \"181\", \"bbox_2d\": [837, 845, 975, 933]}]"
+    },
+    "pred": {
+      "from": "gpt",
+      "value": "[{\"text_content\": \"081\", \"bbox_2d\": [795, 798, 977, 941]}]"
+    },
+    "images": [
+      "test_images/test_0246.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>你是一个专业的车位号识别助手。请观察图片，输出车位号的位置与编号。输出json格式：[{\"text_content\": text, \"bbox_2d\": [x1, y1, x2, y2]}, {\"text_content\": text, \"bbox_2d\": [x1, y1, x2, y2]}]"
+      }
+    ],
+    "gt": {
+      "from": "gpt",
+      "value": "[{\"text_content\": \"-2860\", \"bbox_2d\": [699, 670, 923, 757]}]"
+    },
+    "pred": {
+      "from": "gpt",
+      "value": "[{\"text_content\": \"-2800\", \"bbox_2d\": [697, 670, 924, 760]}]"
+    },
+    "images": [
+      "test_images/test_0251.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>你是一个专业的车位号识别助手。请观察图片，输出车位号的位置与编号。输出json格式：[{\"text_content\": text, \"bbox_2d\": [x1, y1, x2, y2]}, {\"text_content\": text, \"bbox_2d\": [x1, y1, x2, y2]}]"
+      }
+    ],
+    "gt": {
+      "from": "gpt",
+      "value": "[{\"text_content\": \"023\", \"bbox_2d\": [510, 660, 568, 692]}]"
+    },
+    "pred": {
+      "from": "gpt",
+      "value": "[{\"text_content\": \"024\", \"bbox_2d\": [508, 660, 570, 696]}]"
+    },
+    "images": [
+      "test_images/test_0255.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>你是一个专业的车位号识别助手。请观察图片，输出车位号的位置与编号。输出json格式：[{\"text_content\": text, \"bbox_2d\": [x1, y1, x2, y2]}, {\"text_content\": text, \"bbox_2d\": [x1, y1, x2, y2]}]"
+      }
+    ],
+    "gt": {
+      "from": "gpt",
+      "value": "[{\"text_content\": \"323\", \"bbox_2d\": [0, 803, 81, 903]}]"
+    },
+    "pred": {
+      "from": "gpt",
+      "value": "[{\"text_content\": \"003\", \"bbox_2d\": [0, 798, 74, 896]}]"
+    },
+    "images": [
+      "test_images/test_0259.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>你是一个专业的车位号识别助手。请观察图片，输出车位号的位置与编号。输出json格式：[{\"text_content\": text, \"bbox_2d\": [x1, y1, x2, y2]}, {\"text_content\": text, \"bbox_2d\": [x1, y1, x2, y2]}]"
+      }
+    ],
+    "gt": {
+      "from": "gpt",
+      "value": "[{\"text_content\": \"2223\", \"bbox_2d\": [653, 651, 889, 793]}, {\"text_content\": \"-2224\", \"bbox_2d\": [451, 561, 577, 631]}]"
+    },
+    "pred": {
+      "from": "gpt",
+      "value": "[{\"text_content\": \"-2224\", \"bbox_2d\": [448, 564, 573, 630]}, {\"text_content\": \"-2223\", \"bbox_2d\": [685, 666, 891, 789]}]"
+    },
+    "images": [
+      "test_images/test_0262.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>你是一个专业的车位号识别助手。请观察图片，输出车位号的位置与编号。输出json格式：[{\"text_content\": text, \"bbox_2d\": [x1, y1, x2, y2]}, {\"text_content\": text, \"bbox_2d\": [x1, y1, x2, y2]}]"
+      }
+    ],
+    "gt": {
+      "from": "gpt",
+      "value": "[{\"text_content\": \"293\", \"bbox_2d\": [254, 624, 454, 741]}]"
+    },
+    "pred": {
+      "from": "gpt",
+      "value": "[{\"text_content\": \"203\", \"bbox_2d\": [253, 638, 452, 732]}]"
+    },
+    "images": [
+      "test_images/test_0272.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>你是一个专业的车位号识别助手。请观察图片，输出车位号的位置与编号。输出json格式：[{\"text_content\": text, \"bbox_2d\": [x1, y1, x2, y2]}, {\"text_content\": text, \"bbox_2d\": [x1, y1, x2, y2]}]"
+      }
+    ],
+    "gt": {
+      "from": "gpt",
+      "value": "[{\"text_content\": \"1064\", \"bbox_2d\": [516, 790, 729, 895]}]"
+    },
+    "pred": {
+      "from": "gpt",
+      "value": "[{\"text_content\": \"1604\", \"bbox_2d\": [514, 775, 725, 901]}]"
+    },
+    "images": [
+      "test_images/test_0282.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>你是一个专业的车位号识别助手。请观察图片，输出车位号的位置与编号。输出json格式：[{\"text_content\": text, \"bbox_2d\": [x1, y1, x2, y2]}, {\"text_content\": text, \"bbox_2d\": [x1, y1, x2, y2]}]"
+      }
+    ],
+    "gt": {
+      "from": "gpt",
+      "value": "[{\"text_content\": \"K011\", \"bbox_2d\": [387, 696, 771, 992]}]"
+    },
+    "pred": {
+      "from": "gpt",
+      "value": "[{\"text_content\": \"K01\", \"bbox_2d\": [385, 699, 770, 970]}]"
+    },
+    "images": [
+      "test_images/test_0307.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>你是一个专业的车位号识别助手。请观察图片，输出车位号的位置与编号。输出json格式：[{\"text_content\": text, \"bbox_2d\": [x1, y1, x2, y2]}, {\"text_content\": text, \"bbox_2d\": [x1, y1, x2, y2]}]"
+      }
+    ],
+    "gt": {
+      "from": "gpt",
+      "value": "[{\"text_content\": \"093\", \"bbox_2d\": [0, 846, 180, 954]}]"
+    },
+    "pred": {
+      "from": "gpt",
+      "value": "[{\"text_content\": \"098\", \"bbox_2d\": [0, 846, 181, 951]}]"
+    },
+    "images": [
+      "test_images/test_0311.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>你是一个专业的车位号识别助手。请观察图片，输出车位号的位置与编号。输出json格式：[{\"text_content\": text, \"bbox_2d\": [x1, y1, x2, y2]}, {\"text_content\": text, \"bbox_2d\": [x1, y1, x2, y2]}]"
+      }
+    ],
+    "gt": {
+      "from": "gpt",
+      "value": "[{\"text_content\": \"K168\", \"bbox_2d\": [262, 686, 380, 756]}, {\"text_content\": \"K167\", \"bbox_2d\": [180, 630, 263, 669]}]"
+    },
+    "pred": {
+      "from": "gpt",
+      "value": "[{\"text_content\": \"K168\", \"bbox_2d\": [265, 685, 375, 752]}, {\"text_content\": \"K169\", \"bbox_2d\": [405, 790, 607, 920]}, {\"text_content\": \"K167\", \"bbox_2d\": [178, 629, 257, 669]}]"
+    },
+    "images": [
+      "test_images/test_0341.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>你是一个专业的车位号识别助手。请观察图片，输出车位号的位置与编号。输出json格式：[{\"text_content\": text, \"bbox_2d\": [x1, y1, x2, y2]}, {\"text_content\": text, \"bbox_2d\": [x1, y1, x2, y2]}]"
+      }
+    ],
+    "gt": {
+      "from": "gpt",
+      "value": "[{\"text_content\": \"0-106\", \"bbox_2d\": [277, 769, 453, 894]}, {\"text_content\": \"0-107\", \"bbox_2d\": [557, 659, 645, 712]}]"
+    },
+    "pred": {
+      "from": "gpt",
+      "value": "[{\"text_content\": \"C-108\", \"bbox_2d\": [269, 770, 457, 896]}, {\"text_content\": \"0-107\", \"bbox_2d\": [555, 656, 645, 714]}]"
+    },
+    "images": [
+      "test_images/test_0343.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>你是一个专业的车位号识别助手。请观察图片，输出车位号的位置与编号。输出json格式：[{\"text_content\": text, \"bbox_2d\": [x1, y1, x2, y2]}, {\"text_content\": text, \"bbox_2d\": [x1, y1, x2, y2]}]"
+      }
+    ],
+    "gt": {
+      "from": "gpt",
+      "value": "[{\"text_content\": \"0416\", \"bbox_2d\": [57, 199, 90, 216]}]"
+    },
+    "pred": {
+      "from": "gpt",
+      "value": "[{\"text_content\": \"0418\", \"bbox_2d\": [57, 196, 90, 219]}]"
+    },
+    "images": [
+      "test_images/test_0366.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>你是一个专业的车位号识别助手。请观察图片，输出车位号的位置与编号。输出json格式：[{\"text_content\": text, \"bbox_2d\": [x1, y1, x2, y2]}, {\"text_content\": text, \"bbox_2d\": [x1, y1, x2, y2]}]"
+      }
+    ],
+    "gt": {
+      "from": "gpt",
+      "value": "[{\"text_content\": \"1132034\", \"bbox_2d\": [355, 754, 556, 999]}]"
+    },
+    "pred": {
+      "from": "gpt",
+      "value": "[{\"text_content\": \"1132054\", \"bbox_2d\": [380, 765, 543, 997]}]"
+    },
+    "images": [
+      "test_images/test_0373.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>你是一个专业的车位号识别助手。请观察图片，输出车位号的位置与编号。输出json格式：[{\"text_content\": text, \"bbox_2d\": [x1, y1, x2, y2]}, {\"text_content\": text, \"bbox_2d\": [x1, y1, x2, y2]}]"
+      }
+    ],
+    "gt": {
+      "from": "gpt",
+      "value": "[{\"text_content\": \"B201\", \"bbox_2d\": [530, 339, 619, 411]}, {\"text_content\": \"B202\", \"bbox_2d\": [674, 459, 867, 615]}]"
+    },
+    "pred": {
+      "from": "gpt",
+      "value": "[{\"text_content\": \"B01\", \"bbox_2d\": [530, 346, 617, 401]}, {\"text_content\": \"B02\", \"bbox_2d\": [672, 473, 869, 620]}]"
+    },
+    "images": [
+      "test_images/test_0378.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>你是一个专业的车位号识别助手。请观察图片，输出车位号的位置与编号。输出json格式：[{\"text_content\": text, \"bbox_2d\": [x1, y1, x2, y2]}, {\"text_content\": text, \"bbox_2d\": [x1, y1, x2, y2]}]"
+      }
+    ],
+    "gt": {
+      "from": "gpt",
+      "value": "[{\"text_content\": \"商业-26\", \"bbox_2d\": [458, 744, 866, 931]}]"
+    },
+    "pred": {
+      "from": "gpt",
+      "value": "[{\"text_content\": \"商业-29\", \"bbox_2d\": [455, 741, 865, 924]}]"
+    },
+    "images": [
+      "test_images/test_0381.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>你是一个专业的车位号识别助手。请观察图片，输出车位号的位置与编号。输出json格式：[{\"text_content\": text, \"bbox_2d\": [x1, y1, x2, y2]}, {\"text_content\": text, \"bbox_2d\": [x1, y1, x2, y2]}]"
+      }
+    ],
+    "gt": {
+      "from": "gpt",
+      "value": "[{\"text_content\": \"1132011\", \"bbox_2d\": [602, 589, 793, 726]}]"
+    },
+    "pred": {
+      "from": "gpt",
+      "value": "[{\"text_content\": \"111324\", \"bbox_2d\": [620, 604, 764, 708]}]"
+    },
+    "images": [
+      "test_images/test_0388.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>你是一个专业的车位号识别助手。请观察图片，输出车位号的位置与编号。输出json格式：[{\"text_content\": text, \"bbox_2d\": [x1, y1, x2, y2]}, {\"text_content\": text, \"bbox_2d\": [x1, y1, x2, y2]}]"
+      }
+    ],
+    "gt": {
+      "from": "gpt",
+      "value": "[{\"text_content\": \"H034\", \"bbox_2d\": [534, 750, 784, 911]}]"
+    },
+    "pred": {
+      "from": "gpt",
+      "value": "[{\"text_content\": \"H037\", \"bbox_2d\": [538, 754, 780, 912]}]"
+    },
+    "images": [
+      "test_images/test_0402.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>你是一个专业的车位号识别助手。请观察图片，输出车位号的位置与编号。输出json格式：[{\"text_content\": text, \"bbox_2d\": [x1, y1, x2, y2]}, {\"text_content\": text, \"bbox_2d\": [x1, y1, x2, y2]}]"
+      }
+    ],
+    "gt": {
+      "from": "gpt",
+      "value": "[]"
+    },
+    "pred": {
+      "from": "gpt",
+      "value": "[{\"text_content\": \"19号馆\", \"bbox_2d\": [195, 341, 223, 357]}]"
+    },
+    "images": [
+      "test_images/test_0404.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>你是一个专业的车位号识别助手。请观察图片，输出车位号的位置与编号。输出json格式：[{\"text_content\": text, \"bbox_2d\": [x1, y1, x2, y2]}, {\"text_content\": text, \"bbox_2d\": [x1, y1, x2, y2]}]"
+      }
+    ],
+    "gt": {
+      "from": "gpt",
+      "value": "[{\"text_content\": \"0-1553\", \"bbox_2d\": [7, 661, 87, 751]}]"
+    },
+    "pred": {
+      "from": "gpt",
+      "value": "[{\"text_content\": \"0-153\", \"bbox_2d\": [6, 656, 91, 750]}, {\"text_content\": \"0-15\", \"bbox_2d\": [104, 869, 245, 1000]}]"
+    },
+    "images": [
+      "test_images/test_0418.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>你是一个专业的车位号识别助手。请观察图片，输出车位号的位置与编号。输出json格式：[{\"text_content\": text, \"bbox_2d\": [x1, y1, x2, y2]}, {\"text_content\": text, \"bbox_2d\": [x1, y1, x2, y2]}]"
+      }
+    ],
+    "gt": {
+      "from": "gpt",
+      "value": "[{\"text_content\": \"C-033\", \"bbox_2d\": [371, 662, 605, 827]}]"
+    },
+    "pred": {
+      "from": "gpt",
+      "value": "[{\"text_content\": \"C-030\", \"bbox_2d\": [365, 658, 607, 831]}]"
+    },
+    "images": [
+      "test_images/test_0420.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>你是一个专业的车位号识别助手。请观察图片，输出车位号的位置与编号。输出json格式：[{\"text_content\": text, \"bbox_2d\": [x1, y1, x2, y2]}, {\"text_content\": text, \"bbox_2d\": [x1, y1, x2, y2]}]"
+      }
+    ],
+    "gt": {
+      "from": "gpt",
+      "value": "[{\"text_content\": \"152\", \"bbox_2d\": [404, 725, 508, 791]}]"
+    },
+    "pred": {
+      "from": "gpt",
+      "value": "[{\"text_content\": \"257\", \"bbox_2d\": [409, 725, 505, 796]}]"
+    },
+    "images": [
+      "test_images/test_0427.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>你是一个专业的车位号识别助手。请观察图片，输出车位号的位置与编号。输出json格式：[{\"text_content\": text, \"bbox_2d\": [x1, y1, x2, y2]}, {\"text_content\": text, \"bbox_2d\": [x1, y1, x2, y2]}]"
+      }
+    ],
+    "gt": {
+      "from": "gpt",
+      "value": "[{\"text_content\": \"B248\", \"bbox_2d\": [314, 668, 478, 769]}]"
+    },
+    "pred": {
+      "from": "gpt",
+      "value": "[{\"text_content\": \"B243\", \"bbox_2d\": [309, 660, 480, 775]}]"
+    },
+    "images": [
+      "test_images/test_0428.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>你是一个专业的车位号识别助手。请观察图片，输出车位号的位置与编号。输出json格式：[{\"text_content\": text, \"bbox_2d\": [x1, y1, x2, y2]}, {\"text_content\": text, \"bbox_2d\": [x1, y1, x2, y2]}]"
+      }
+    ],
+    "gt": {
+      "from": "gpt",
+      "value": "[]"
+    },
+    "pred": {
+      "from": "gpt",
+      "value": "[{\"text_content\": \"14-6\", \"bbox_2d\": [100, 685, 230, 784]}]"
+    },
+    "images": [
+      "test_images/test_0437.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>你是一个专业的车位号识别助手。请观察图片，输出车位号的位置与编号。输出json格式：[{\"text_content\": text, \"bbox_2d\": [x1, y1, x2, y2]}, {\"text_content\": text, \"bbox_2d\": [x1, y1, x2, y2]}]"
+      }
+    ],
+    "gt": {
+      "from": "gpt",
+      "value": "[{\"text_content\": \"1-16\", \"bbox_2d\": [419, 702, 629, 827]}]"
+    },
+    "pred": {
+      "from": "gpt",
+      "value": "[{\"text_content\": \"1-76\", \"bbox_2d\": [412, 719, 625, 821]}]"
+    },
+    "images": [
+      "test_images/test_0440.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>你是一个专业的车位号识别助手。请观察图片，输出车位号的位置与编号。输出json格式：[{\"text_content\": text, \"bbox_2d\": [x1, y1, x2, y2]}, {\"text_content\": text, \"bbox_2d\": [x1, y1, x2, y2]}]"
+      }
+    ],
+    "gt": {
+      "from": "gpt",
+      "value": "[{\"text_content\": \"0-1351\", \"bbox_2d\": [342, 610, 442, 669]}, {\"text_content\": \"1350\", \"bbox_2d\": [0, 782, 151, 892]}]"
+    },
+    "pred": {
+      "from": "gpt",
+      "value": "[{\"text_content\": \"350\", \"bbox_2d\": [0, 775, 155, 885]}, {\"text_content\": \"0-1361\", \"bbox_2d\": [347, 611, 440, 666]}]"
+    },
+    "images": [
+      "test_images/test_0445.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>你是一个专业的车位号识别助手。请观察图片，输出车位号的位置与编号。输出json格式：[{\"text_content\": text, \"bbox_2d\": [x1, y1, x2, y2]}, {\"text_content\": text, \"bbox_2d\": [x1, y1, x2, y2]}]"
+      }
+    ],
+    "gt": {
+      "from": "gpt",
+      "value": "[{\"text_content\": \"-1C46\", \"bbox_2d\": [643, 633, 881, 828]}]"
+    },
+    "pred": {
+      "from": "gpt",
+      "value": "[{\"text_content\": \"-1C40\", \"bbox_2d\": [648, 638, 880, 811]}]"
+    },
+    "images": [
+      "test_images/test_0455.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>你是一个专业的车位号识别助手。请观察图片，输出车位号的位置与编号。输出json格式：[{\"text_content\": text, \"bbox_2d\": [x1, y1, x2, y2]}, {\"text_content\": text, \"bbox_2d\": [x1, y1, x2, y2]}]"
+      }
+    ],
+    "gt": {
+      "from": "gpt",
+      "value": "[{\"text_content\": \"45\", \"bbox_2d\": [453, 910, 536, 990]}]"
+    },
+    "pred": {
+      "from": "gpt",
+      "value": "[{\"text_content\": \"5\", \"bbox_2d\": [452, 915, 497, 963]}]"
+    },
+    "images": [
+      "test_images/test_0462.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>你是一个专业的车位号识别助手。请观察图片，输出车位号的位置与编号。输出json格式：[{\"text_content\": text, \"bbox_2d\": [x1, y1, x2, y2]}, {\"text_content\": text, \"bbox_2d\": [x1, y1, x2, y2]}]"
+      }
+    ],
+    "gt": {
+      "from": "gpt",
+      "value": "[{\"text_content\": \"G019\", \"bbox_2d\": [404, 602, 499, 714]}, {\"text_content\": \"G020\", \"bbox_2d\": [468, 511, 531, 571]}]"
+    },
+    "pred": {
+      "from": "gpt",
+      "value": "[{\"text_content\": \"G020\", \"bbox_2d\": [469, 510, 530, 566]}, {\"text_content\": \"G019\", \"bbox_2d\": [403, 603, 497, 712]}, {\"text_content\": \"18\", \"bbox_2d\": [288, 825, 415, 953]}]"
+    },
+    "images": [
+      "test_images/test_0472.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>你是一个专业的车位号识别助手。请观察图片，输出车位号的位置与编号。输出json格式：[{\"text_content\": text, \"bbox_2d\": [x1, y1, x2, y2]}, {\"text_content\": text, \"bbox_2d\": [x1, y1, x2, y2]}]"
+      }
+    ],
+    "gt": {
+      "from": "gpt",
+      "value": "[{\"text_content\": \"-2181\", \"bbox_2d\": [642, 734, 804, 824]}]"
+    },
+    "pred": {
+      "from": "gpt",
+      "value": "[{\"text_content\": \"-2781\", \"bbox_2d\": [647, 738, 797, 831]}]"
+    },
+    "images": [
+      "test_images/test_0478.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>你是一个专业的车位号识别助手。请观察图片，输出车位号的位置与编号。输出json格式：[{\"text_content\": text, \"bbox_2d\": [x1, y1, x2, y2]}, {\"text_content\": text, \"bbox_2d\": [x1, y1, x2, y2]}]"
+      }
+    ],
+    "gt": {
+      "from": "gpt",
+      "value": "[{\"text_content\": \"1657\", \"bbox_2d\": [114, 701, 323, 810]}]"
+    },
+    "pred": {
+      "from": "gpt",
+      "value": "[{\"text_content\": \"267\", \"bbox_2d\": [169, 704, 330, 780]}]"
+    },
+    "images": [
+      "test_images/test_0489.jpg"
+    ]
+  }
+]
